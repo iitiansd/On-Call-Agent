@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+langchain-google-genai
+langchain 
+langchain-community
+langchainhub
+langchain-chroma
+langchain-unstructured
+langchain-cohere
+langchain-experimental
+pypdf
+chromadb
+celery
+redis
+pymongo
